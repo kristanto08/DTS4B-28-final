@@ -1,5 +1,5 @@
 import React from "react"
-import "./Header.css"
+import "./header.css"
 import { signOut } from 'firebase/auth';
 import { Link, useNavigate } from "react-router-dom"
 import { auth } from '../config/firebase';
